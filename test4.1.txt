@@ -1,0 +1,13 @@
+main ( )
+	w = 4
+	x = 2
+	if < x 1 :
+		print ( x )
+	elif <= w 0 :
+		print ( w )
+	elif == x w :
+		print ( 17 )
+	else :
+		while < x w :
+			print ( x )
+			x = + x 1
