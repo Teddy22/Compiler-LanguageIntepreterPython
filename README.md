@@ -1,3 +1,5 @@
+Intepreter for a minimal and fictional programming language as represented by the grammar definition below in BNF form.
+
 ###Grammar for the language
 
 ##Parser
